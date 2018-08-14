@@ -15,3 +15,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 ## Videos
 
 TODO: link videos that discuss OrbitDB (ie. Haad's talks from 2016)
+
+## License
+
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0](LICENSE) license © 2017-2018 Haja Networks Oy. Any code is under a [MIT](LICENSE) © 2017-2018 Haja Networks Oy.
