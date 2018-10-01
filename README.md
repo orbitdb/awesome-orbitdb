@@ -18,8 +18,9 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 ## Videos
 
-- [OrbitDB at DAppHack Berlin 2016](https://www.youtube.com/watch?v=t-kZnoj_4nI) introduced by @haadcode
-- [Orbit Distributed, Real Time Web3 Apps with IPFS and Ethereum](https://www.youtube.com/watch?v=vQrbxyDPSXg) by @haadcode at DevCon2 in Shanghai
+- [OrbitDB at DAppHack Berlin 2016](https://www.youtube.com/watch?v=t-kZnoj_4nI) introduced by [@haadcode](https://github.com/haadcode)
+- [Orbit Distributed, Real Time Web3 Apps with IPFS and Ethereum](https://www.youtube.com/watch?v=vQrbxyDPSXg) by [@haadcode](https://github.com/haadcode) at DevCon2 in Shanghai
+- [Orbit at CBase 2016](https://www.youtube.com/watch?v=UOC_QqtEJtg&feature=youtu.be&t=1457) by [@haadcode](https://github.com/haadcode)
 
 ## License
 
