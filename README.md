@@ -11,6 +11,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 - [3Box](https://medium.com/uport/announcing-3box-and-ethereum-profiles-dba9841e0952) - A decentralized data storage solution called 3Box, which allows Ethereum users to upload and share their information across dapps using any wallet. [GitHub: @uport-project/3box](https://github.com/uport-project/3box).
 - [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless chat application built with OrbitDB and IPFS. [GitHub: @orbitdb/orbit](github.com/orbitdb/orbit).
 - [Origin Messaging](https://www.originprotocol.com/en) -  A protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS, built on OrbitDB. [Demo DApp](https://github.com/OriginProtocol/origin-dapp). [Introduction Medium Article](https://medium.com/originprotocol/introducing-origin-messaging-decentralized-secure-and-auditable-13c16fe0f13e). [GitHub: @OriginProtocol](https://github.com/OriginProtocol).
+- [Vitriol](https://vitriol.co) - A distributed, serverless publishing platform based on OrbitDB. Read an intro (written with Vitriol!) [here](https://vitriol.co/QmccRaHCrUKZwZpjdJFiTTdgp8FG3ALFDZQexaYgit3NCF/QmYJvZjnw8c1DqFbW1BpWmvb3jVg8fQYRUs6UzzEyosagA) or find the code [here](https://gitlab.com/vitriolum/vitriol-web).
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
