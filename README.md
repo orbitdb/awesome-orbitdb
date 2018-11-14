@@ -15,7 +15,6 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
-- [Embark](https://github.com/iurimatias/embark-framework) - Embark is a framework that allows you to easily develop and deploy Decentralized Applications (DApps)
 
 ## Videos
 
