@@ -25,6 +25,13 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 - [Orbit Distributed, Real Time Web3 Apps with IPFS and Ethereum](https://www.youtube.com/watch?v=vQrbxyDPSXg) by [@haadcode](https://github.com/haadcode) at DevCon2 in Shanghai
 - [Orbit at CBase 2016](https://www.youtube.com/watch?v=UOC_QqtEJtg&feature=youtu.be&t=1457) by [@haadcode](https://github.com/haadcode)
 
+
+## Contribute
+
+If you think this could be better, please [open an issue](https://github.com/orbitdb/awesome-orbitdb/issues/new)!
+
+Please note that all interactions in @orbitdb fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## License
 
-This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0](LICENSE) license © 2017-2018 Haja Networks Oy. Any code is under a [MIT](LICENSE) © 2017-2018 Haja Networks Oy.
+This repository is only for documents. All of these are licensed under the [CC-BY-SA 3.0](LICENSE) license © 2017-2019 Haja Networks Oy. Any code is under a [MIT](LICENSE) © 2017-2019 Haja Networks Oy.
