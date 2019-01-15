@@ -30,7 +30,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 If you think this could be better, please [open an issue](https://github.com/orbitdb/awesome-orbitdb/issues/new)!
 
-Please note that all interactions in @orbitdb fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in [@OrbitDB](https://github.com/orbitdb) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
