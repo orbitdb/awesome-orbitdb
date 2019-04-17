@@ -8,7 +8,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 
 ## Apps
-- [smartX](https://smartxnetwork.github.io/) - Smart, self-sovereign 🆔 and 💰 for everyone. smartX is a peer-to-peer socio-economic system that empowers people to stay in control of their data, easily send digital money to each other and trade tokens of any good, service or asset in open, intermediary-free markets.
+- [smartX](https://smartxnetwork.github.io/) - Smart, self-sovereign 🆔 and 💰 for everyone. smartX is a peer-to-peer socio-economic system that empowers people to stay in control of their data, easily send digital money to each other and trade tokens of any good, service or asset in open, intermediary-free markets. [GitHub: @smartXnetwork](https://github.com/smartXnetwork/smartXnetwork.github.io).
 - [3Box](https://medium.com/uport/announcing-3box-and-ethereum-profiles-dba9841e0952) - A decentralized data storage solution called 3Box, which allows Ethereum users to upload and share their information across dapps using any wallet. [GitHub: @uport-project/3box](https://github.com/uport-project/3box).
 - [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless chat application built with OrbitDB and IPFS. [GitHub: @orbitdb/orbit](github.com/orbitdb/orbit).
 - [Origin Messaging](https://www.originprotocol.com/en) -  A protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS, built on OrbitDB. [Demo DApp](https://github.com/OriginProtocol/origin-dapp). [Introduction Medium Article](https://medium.com/originprotocol/introducing-origin-messaging-decentralized-secure-and-auditable-13c16fe0f13e). [GitHub: @OriginProtocol](https://github.com/OriginProtocol).
