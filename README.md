@@ -30,6 +30,8 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 ## Blogposts
 
+- [Pushing the Limits of IPFS and OrbitDB](https://mrh.io/2018-01-24-pushing-limits-ipfs-orbitdb/) by @aphelionz
+
 *Blogs age, but some of them are still good for understanding where OrbitDB and related projects have been at a certain age. If a blog has aged, please open a PR removing it.*
 
 ## Contribute
