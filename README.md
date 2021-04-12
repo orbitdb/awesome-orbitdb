@@ -26,7 +26,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
 
 ## Examples
-- [TodoMVC with OrbitDB](https://github.com/orbitdb/example-orbitdb-todomvc-updated)
+- [TodoMVC with OrbitDB](https://github.com/orbitdb/example-orbitdb-todomvc)
 
 ## Videos
 
