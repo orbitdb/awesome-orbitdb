@@ -24,6 +24,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
+- [ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - npm library for creating subnetworks using IPFS pubsub channels.
 
 ## Examples
 - [TodoMVC with OrbitDB](https://github.com/orbitdb/example-orbitdb-todomvc)
