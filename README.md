@@ -10,18 +10,28 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 
 
 ## Apps
-- Watchit [Desktop](https://github.com/ZorrillosDev/watchit-desktop) and [Gateway](https://github.com/ZorrillosDev/watchit-gateway) - A movie platform with a decentralized network approach.
+- Watchit [Desktop](https://github.com/ZorrillosDev/watchit-desktop) and [Gateway](https://github.com/ZorrillosDev/watchit-gateway) - A movie platform with a decentralized network approach. <a href="https://github.com/ZorrillosDev/watchit-desktop/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/ZorrillosDev/watchit-desktop" /></a>
 - [Remote Education Log](https://log.education) - A tool to help you keep track of your child's remote special education services and instruction while school is closed.
-- [smartX](https://smartxnetwork.github.io/) - Smart, self-sovereign 🆔 and 💰 for everyone. smartX is a peer-to-peer socio-economic system that empowers people to stay in control of their data, easily send digital money to each other and trade tokens of any good, service or asset in open, intermediary-free markets. [GitHub: @smartXnetwork](https://github.com/smartXnetwork/smartXnetwork.github.io).
-- [3Box](https://medium.com/uport/announcing-3box-and-ethereum-profiles-dba9841e0952) - A decentralized data storage solution called 3Box, which allows Ethereum users to upload and share their information across dapps using any wallet. [GitHub: @uport-project/3box](https://github.com/uport-project/3box).
-- [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless chat application built with OrbitDB and IPFS. [GitHub: @orbitdb/orbit-web](https://github.com/orbitdb/orbit-web).
-- [Origin Messaging](https://www.originprotocol.com/en) -  A protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS, built on OrbitDB. [Demo DApp](https://github.com/OriginProtocol/origin-dapp). [Introduction Medium Article](https://medium.com/originprotocol/introducing-origin-messaging-decentralized-secure-and-auditable-13c16fe0f13e). [GitHub: @OriginProtocol](https://github.com/OriginProtocol).
+- [smartX](https://smartxnetwork.github.io/) - Smart, self-sovereign 🆔 and 💰 for everyone. smartX is a peer-to-peer socio-economic system that empowers people to stay in control of their data, easily send digital money to each other and trade tokens of any good, service or asset in open, intermediary-free markets. [GitHub: @smartXnetwork](https://github.com/smartXnetwork/smartXnetwork.github.io).<a href="https://github.com/smartXnetwork/smartXnetwork/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/smartXnetwork/smartXnetwork" /></a>
+- [3Box](https://medium.com/uport/announcing-3box-and-ethereum-profiles-dba9841e0952) - A decentralized data storage solution called 3Box, which allows Ethereum users to upload and share their information across dapps using any wallet. [GitHub: @uport-project/3box](https://github.com/uport-project/3box). <a href="https://github.com/uport-project/3box/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/uport-project/3box" /></a>
+- [Orbit](https://github.com/orbitdb/orbit) - A distributed, serverless chat application built with OrbitDB and IPFS. [GitHub: @orbitdb/orbit-web](https://github.com/orbitdb/orbit-web).<a href="https://github.com/orbitdb/orbit/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/orbitdb/orbit" /></a>
+- [Origin Messaging](https://www.originprotocol.com/en) -  A protocol for creating sharing economy marketplaces using the Ethereum blockchain and IPFS, built on OrbitDB. [Demo DApp](https://github.com/OriginProtocol/origin-dapp). [Introduction Medium Article](https://medium.com/originprotocol/introducing-origin-messaging-decentralized-secure-and-auditable-13c16fe0f13e). [GitHub: @OriginProtocol](https://github.com/OriginProtocol).<a href="https://github.com/OriginProtocol/origin-dapp/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/OriginProtocol/origin-dapp" /></a>
 - [Vitriol](https://vitriol.co) - A distributed, serverless publishing platform based on OrbitDB. Read an intro (written with Vitriol!) [here](https://vitriol.co/QmccRaHCrUKZwZpjdJFiTTdgp8FG3ALFDZQexaYgit3NCF/QmYJvZjnw8c1DqFbW1BpWmvb3jVg8fQYRUs6UzzEyosagA) or find the code [here](https://gitlab.com/vitriolum/vitriol-web).
-- [d-chat](https://github.com/peterhuba/d-chat) - Distributed, serverless, self-hosting React-based chat app inspired by [Orbit](https://github.com/orbitdb/orbit-web) with service-worker based implementation. [GitHub: @peterhuba/d-chat](https://github.com/peterhuba/d-chat).
-- [Orbit DNS](https://github.com/vaultec81/orbit-dns) - A distributed, PKI, cryptograhically signed domain name system built on orbit-db. Open ended system that can be combined with smart contracts or other registration system. Status is work in progress. 
-- [Sailplane](https://sailplane.io/) - Collaborative p2p file sharing in the browser. [Code](https://github.com/cypsela/sailplane-web). 
-- [Berty](https://berty.tech/) - A distributed e2e chat application built with OrbiDB and IPFS. [Code](https://github.com/berty/berty). 
-- [Constellation](https://julienmalard.github.io/constellation) - A distributed platform scientific database sharing and citizen science. [Code](https://github.com/julienmalard/constellation).
+- [d-chat](https://github.com/peterhuba/d-chat) - Distributed, serverless, self-hosting React-based chat app inspired by [Orbit](https://github.com/orbitdb/orbit-web) with service-worker based implementation. [GitHub: @peterhuba/d-chat](https://github.com/peterhuba/d-chat).<a href="https://github.com/orbitdb/orbit-web/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/orbitdb/orbit-web" /></a>
+- [Orbit DNS](https://github.com/vaultec81/orbit-dns) - A distributed, PKI, cryptograhically signed domain name system built on orbit-db. Open ended system that can be combined with smart contracts or other registration system. Status is work in progress. <a href="https://github.com/vaultec81/orbit-dns/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/vaultec81/orbit-dns" /></a>
+- [Sailplane](https://sailplane.io/) - Collaborative p2p file sharing in the browser. [Code](https://github.com/cypsela/sailplane-web).<a href="https://github.com/cypsela/sailplane-web/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/cypsela/sailplane-web" /></a> 
+- [Berty](https://berty.tech/) - A distributed e2e chat application built with OrbiDB and IPFS. [Code](https://github.com/berty/berty). <a href="https://github.com/berty/berty/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/berty/berty" /></a>
+- [Constellation](https://julienmalard.github.io/constellation) - A distributed platform scientific database sharing and citizen science. [Code](https://github.com/julienmalard/constellation).<a href="https://github.com/julienmalard/constellation/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/julienmalard/constellation" /></a>
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
