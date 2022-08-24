@@ -21,7 +21,7 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 - [Orbit DNS](https://github.com/vaultec81/orbit-dns) - A distributed, PKI, cryptograhically signed domain name system built on orbit-db. Open ended system that can be combined with smart contracts or other registration system. Status is work in progress. 
 - [Sailplane](https://sailplane.io/) - Collaborative p2p file sharing in the browser. [Code](https://github.com/cypsela/sailplane-web). 
 - [Berty](https://berty.tech/) - A distributed e2e chat application built with OrbiDB and IPFS. [Code](https://github.com/berty/berty). 
-- [Constellation](https://julienmalard.github.io/constellation) - A distributed platform scientific database sharing and citizen science. [Code](https://github.com/julienmalard/constellation).
+- [Constellation](https://réseau-constellation.ca) - A distributed platform scientific database sharing and citizen science. [Code](https://github.com/reseau-constellation).
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
