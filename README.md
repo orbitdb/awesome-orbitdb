@@ -20,12 +20,14 @@ If you are, or know a project using OrbitDB for something awesome, let us know a
 - [d-chat](https://github.com/peterhuba/d-chat) - Distributed, serverless, self-hosting React-based chat app inspired by [Orbit](https://github.com/orbitdb/orbit-web) with service-worker based implementation. [GitHub: @peterhuba/d-chat](https://github.com/peterhuba/d-chat).
 - [Orbit DNS](https://github.com/vaultec81/orbit-dns) - A distributed, PKI, cryptograhically signed domain name system built on orbit-db. Open ended system that can be combined with smart contracts or other registration system. Status is work in progress. 
 - [Sailplane](https://sailplane.io/) - Collaborative p2p file sharing in the browser. [Code](https://github.com/cypsela/sailplane-web). 
-- [Berty](https://berty.tech/) - A distributed e2e chat application built with OrbiDB and IPFS. [Code](https://github.com/berty/berty). 
+- [Berty](https://berty.tech/) - A distributed e2e chat application built with OrbitDB and IPFS. [Code](https://github.com/berty/berty). 
 - [Constellation](https://réseau-constellation.ca) - A distributed platform scientific database sharing and citizen science. [Code](https://github.com/reseau-constellation).
 
 ## Tools
 - [OrbitDB CLI](https://github.com/orbitdb/orbit-db-cli) - Command line tool for managing OrbitDB databases
 - [ipfs-coord](https://github.com/Permissionless-Software-Foundation/ipfs-coord) - npm library for creating subnetworks using IPFS pubsub channels.
+- [Bohr-DB](https://github.com/reseau-constellation/bohr-db/) - Adds TypeScript and runtime-checked types to your orbit-db databases.
+- [Kuiper](https://github.com/reseau-constellation/orbit-db-kuiper/) - Feed, Set and OrderedKeyValue database types for OrbitDB
 
 ## Examples
 - [TodoMVC with OrbitDB](https://github.com/orbitdb/example-orbitdb-todomvc)
